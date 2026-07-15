@@ -22,21 +22,6 @@ O design visual do projeto foi estruturado com uma identidade acolhedora, utiliz
 Você pode interagir e visualizar o projeto completo diretamente no Figma:
 🔗 **[Ver Protótipo no Figma Community](https://www.figma.com/community/file/1659029414539096315)**
 
-### 📱 Principais Telas
-*(Dica: Insira imagens das suas principais telas exportadas do Figma aqui)*
-<table>
-  <tr>
-    <td><img src="./images/tela_catalogo.png" width="250" alt="Catálogo de Animais"></td>
-    <td><img src="./images/tela_detalhes.png" width="250" alt="Detalhes do Pet"></td>
-    <td><img src="./images/tela_agendamento.png" width="250" alt="Agendamento"></td>
-  </tr>
-  <tr>
-    <td>Catálogo de Animais</td>
-    <td>Perfil Detalhado do Pet</td>
-    <td>Agendamento de Visitas</td>
-  </tr>
-</table>
-
 ---
 
 ## 📊 Arquitetura e Engenharia de Software
